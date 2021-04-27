@@ -1,0 +1,56 @@
+.main-form{
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    height: 500px;
+    width:70%;
+    
+}
+.first-part{
+    background: rgba(111, 172, 21, 0.671);
+    height: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+      
+
+}
+#first-part-text{
+   
+    margin-left: 22px;
+    margin-top: 22px;
+    color: honeydew;
+    float: left;
+    font-size: 25px;
+    position:absolute;
+    }
+#first-part-text2{
+   
+    float: left;
+    margin-left: 22px;
+    margin-top: 46px;
+    color: honeydew;
+
+}
+body{
+    margin-left: 200px;
+	padding:0;
+}
+
+input[type=text],[type=email],.msg
+{
+    width:100%;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    padding: 5px;
+    border-radius:5px;
+    border-color:lightgoldenrodyellow;
+}
+.second-part
+{
+ margin : 20px;
+}
+input[type=submit]
+{
+    padding:5px;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
